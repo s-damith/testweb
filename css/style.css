@@ -522,7 +522,7 @@
 
 /* CEO Quote Style */
 .bg-ceo {
-    background-image: linear-gradient(rgba(17, 32, 21, 0.6), rgba(17, 32, 21, 0.6)), url('../img/ceo.jpg'); 
+    background-image: linear-gradient(rgba(17, 32, 21, 0.6), rgba(17, 32, 21, 0.6)), url('../img/tag-back.jpg'); 
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -554,7 +554,7 @@
 
 /* Choose Us Style */
 .bg-choose-us {
-    background-image: linear-gradient(rgba(17, 32, 21, 0.6), rgba(17, 32, 21, 0.6)), url('../img/choose.jpg');
+    background-image: linear-gradient(rgba(17, 32, 21, 0.6), rgba(17, 32, 21, 0.6)), url('../img/choose-bg.jpg');
     background-size: cover;
     background-position: center;
     border-radius: 10px;
@@ -572,28 +572,28 @@
 
 /* Services Style */
 .bg-service-1 {
-    background-image: url('../img/service-1.jpg');
+    background-image: url('../img/service-bg-1.jpg');
     min-height: 455px;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
 }
 .bg-service-2 {
-    background-image: url('../img/service-2.jpg');
+    background-image: url('../img/service-bg-2.jpg');
     min-height: 455px;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
 }
 .bg-service-3 {
-    background-image: url('../img/service-3.jpg');
+    background-image: url('../img/service-bg-3.jpg');
     min-height: 455px;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
 }
 .bg-service-4 {
-    background-image: url('../img/service-4.jpg');
+    background-image: url('../img/service-bg-4.jpg');
     min-height: 455px;
     background-size: cover;
     background-repeat: no-repeat;
