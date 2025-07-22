@@ -599,6 +599,47 @@
     background-repeat: no-repeat;
     position: relative;
 }
+
+.bg-service-5 {
+    background-image: url('../img/service-bg-5.jpg');
+    min-height: 455px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.bg-service-6 {
+    background-image: url('../img/service-bg-6.jpg');
+    min-height: 455px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.bg-service-7 {
+    background-image: url('../img/service-bg-7.jpg');
+    min-height: 455px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.bg-service-8 {
+    background-image: url('../img/service-bg-1.jpg');
+    min-height: 455px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.bg-service-9 {
+    background-image: url('../img/service-bg-3.jpg');
+    min-height: 455px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
 .custom-card {
     max-width: 35%;
     width: max-content;
@@ -1022,8 +1063,8 @@
     margin: 10px 0; 
 }
 .footer-logo {
-    width: 224px;
-    height: 56px;
+    width: auto;
+    height: 85px;
     object-fit: cover;
 }
 .subtext-footer {
@@ -1253,6 +1294,26 @@
         min-height: 10px;
     }
     .bg-service-4 {
+        background-image: none;
+        min-height: 10px;
+    }
+    .bg-service-5 {
+        background-image: none;
+        min-height: 10px;
+    }
+    .bg-service-6 {
+        background-image: none;
+        min-height: 10px;
+    }
+    .bg-service-7 {
+        background-image: none;
+        min-height: 10px;
+    }
+    .bg-service-8 {
+        background-image: none;
+        min-height: 10px;
+    }
+    .bg-service-9 {
         background-image: none;
         min-height: 10px;
     }
